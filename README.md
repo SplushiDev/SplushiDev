@@ -1,10 +1,10 @@
-## Hey, I'm tibue99 👋
-[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/203208036053942272)
+## Hey, Ho, I'm Splushi 👋
+[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1010526068404408412)
 [![](https://img.shields.io/badge/EzCord-00A966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tibue99/ezcord)
 [![](https://img.shields.io/badge/Keks_Bot-D0567A?style=for-the-badge&logo=cookiecutter&logoColor=white)](https://keksbot.xyz)
 
-- I like working with **Python** and **Discord bots** 🤖
-- I am interested in backend development and databases 🍪
+- My Favorite: **Lua** and **JavaScript** 🤖
+- Interested in **Backend** and **Database** 🍪
 
 ### Stats
-[![](https://github-readme-stats.vercel.app/api?username=tibue99&theme=dracula&count_private=true&show_icons=true&hide=contribs)](https://github.com/tibue99)
+[![](https://github-readme-stats.vercel.app/api?username=tibue99&theme=dracula&count_private=true&show_icons=true&hide=contribs)][(https://github.com/SplushiDev/)])
